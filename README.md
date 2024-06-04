@@ -1,3 +1,5 @@
+> Temporary repo just to have versioning. Should be replaced with [the main repo](https://github.com/dmfxyz/murky) if/when they do some versioning. 
+
 ## Merkle Generator and Prover in Solidity
 ![Tests](https://github.com/dmfxyz/murky/actions/workflows/run_tests.yml/badge.svg?event=push)
 ![Slither](https://github.com/dmfxyz/murky/actions/workflows/slither.yml/badge.svg?event=push)
